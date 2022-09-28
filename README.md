@@ -9,7 +9,7 @@
 
 > O GitHub Blog foi desenvolvido como um dos desafios do curso Ignite ReactJS da @Rocketseat.
 
-# [DEMO](https://test-reactjs-coffee-delivery-k5ow.vercel.app/)
+# [DEMO](https://github-blog-qndd.vercel.app/)
 
 ### Tópicos estudados
 
