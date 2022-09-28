@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoVini/github_blog)
 ![Bitbucket open issues](https://img.shields.io/github/issues/LeonardoVini/github_blog)
 
-<img src="coffee_delivery.png" alt="exemplo imagem">
+<img src="github_blog.png" alt="exemplo imagem">
 
 > O GitHub Blog foi desenvolvido como um dos desafios do curso Ignite ReactJS da @Rocketseat.
 
