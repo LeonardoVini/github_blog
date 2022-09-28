@@ -42,7 +42,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para usar Coffee Delivery, siga estas etapas:
 
 ```
-git clone https://github.com/LeonardoVini/test-reactjs-coffee-delivery.git
+git clone https://github.com/LeonardoVini/github_blog.git
 ```
 
 ```
