@@ -1,13 +1,13 @@
-# Coffee Delivery
+# GitHub Blog
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoVini/test-reactjs-coffee-delivery)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoVini/test-reactjs-coffee-delivery)
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoVini/github-blog)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoVini/github-blog)
 
 <img src="coffee_delivery.png" alt="exemplo imagem">
 
-> O Coffee Delivery foi desenvolvido como um dos desafios do curso Ignite ReactJS da @Rocketseat.
+> O GitHub Blog foi desenvolvido como um dos desafios do curso Ignite ReactJS da @Rocketseat.
 
 # [DEMO](https://test-reactjs-coffee-delivery-k5ow.vercel.app/)
 
@@ -41,7 +41,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `Vite`
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## ☕ Usando Coffee Delivery
+## ☕ Usando GitHub Blog
 
 Para usar Coffee Delivery, siga estas etapas:
 
@@ -56,9 +56,9 @@ yarn
 yarn dev
 ```
 
-## 📫 Contribuindo para o Coffee Delivery
+## 📫 Contribuindo para o GitHub Blog
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com GitHub Blog, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
